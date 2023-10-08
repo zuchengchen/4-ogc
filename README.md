@@ -29,11 +29,3 @@ We encourage use of these data in derivative works. If you use the material prov
 ```
 @article{Nitz:2021zwj,
     author = {Nitz, Alexander H. and Kumar, Sumit and Wang, Yi-Fan and Kastha, Shilpa and Wu, Shichao and Sch\"afer, Marlin and Dhurkunde, Rahul and Capano, Collin D.},
-    title = "{4-OGC: Catalog of gravitational waves from compact-binary mergers}",
-    eprint = "2112.06878",
-    archivePrefix = "arXiv",
-    primaryClass = "astro-ph.HE",
-    month = "12",
-    year = "2021"
-}
-```
